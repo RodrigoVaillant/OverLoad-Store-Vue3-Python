@@ -24,5 +24,6 @@ app.use(PrimeVue, {
         ripple: true
     }
 )
+
 app.component('Button', Button);
 app.mount('#app')
