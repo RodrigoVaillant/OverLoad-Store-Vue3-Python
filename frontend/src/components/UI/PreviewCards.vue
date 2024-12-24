@@ -12,7 +12,7 @@
             <figure class="bg-white w-1/3 h-3/3 m-10 flex justify-center items-center flex-col border-black border-2 rounded-xl">
                 <!-- Photo -->
                 <div class="border-black w-2/3 h-2/3 flex justify-center">
-                    <img src="../icons/stoneisland.svg" alt="" class="max-w-full h-auto">
+                    <img src="../../icons/stoneisland.svg" alt="" class="max-w-full h-auto">
                 </div>
                 <h1 class="text-2xl text-center">Stone Island</h1>
                 <figcaption class="text-2xl text-center">Stone Island — це італійський бренд, який поєднує інноваційні технології, якісні матеріали та неповторний стиль. </figcaption>
@@ -23,11 +23,11 @@
             <figure class="bg-white w-1/3 h-3/3 m-10 flex justify-center items-center flex-col border-black border-2 rounded-xl">
                 <!-- Photo -->
                 <div class=" w-2/3 h-2/3 flex justify-center">
-                    <img src="../icons/C.P._Company_logo.svg" alt="" class="max-w-full h-auto">
+                    <img src="../../icons/C.P._Company_logo.svg" alt="" class="max-w-full h-auto">
                 </div>
                 <h1 class="text-2xl text-center">Stone Island</h1>
                 <figcaption class="text-2xl text-center">Stone Island — це італійський бренд, який поєднує інноваційні технології, якісні матеріали та неповторний стиль. </figcaption>
-                <button></button>
+                <router-link to="store/CpCompany" class="text-2xl text-center items-center inline-flex rounded-xl bg-black text-white w-48 h-24 m-4 border-2">Enjoi CP Company</router-link>
                 
             </figure>
         </div>
