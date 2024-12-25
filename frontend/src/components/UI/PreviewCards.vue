@@ -17,7 +17,7 @@ import Footer from '@/components/UI/Footer.vue';
         <div class="w-full h-2/3 flex justify-around mb-24">
             <!-- Block banner -->
             <figure
-                class="bg-white w-1/3 h-3/3 m-10 flex justify-center items-center flex-col border-black border-2 rounded-xl">
+                class="bg-white w-1/3 h-3/3 p-10 flex justify-center items-center flex-col border-black border-2 rounded-xl">
                 <!-- Photo -->
                 <div class="border-black w-2/3 h-2/3 flex justify-center">
                     <img src="../../icons/stoneisland.svg" alt="" class="max-w-full h-auto">
@@ -33,7 +33,7 @@ import Footer from '@/components/UI/Footer.vue';
             </figure>
 
             <figure
-                class="bg-white w-1/3 h-3/3 m-10 flex justify-center items-center flex-col border-black border-2 rounded-xl">
+                class="bg-white w-1/3 h-3/3 p-10 flex justify-center items-center flex-col border-black border-2 rounded-xl">
                 <!-- Photo -->
                 <div class=" w-2/3 h-2/3 flex justify-center">
                     <img src="../../icons/C.P._Company_logo.svg" alt="" class="max-w-full h-auto">
