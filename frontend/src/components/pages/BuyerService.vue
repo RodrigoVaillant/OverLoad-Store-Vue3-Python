@@ -1,6 +1,6 @@
 <script setup>
-import Header from './UI/Header.vue';
-import Accordion from './UI/Accordion.vue';
+import Header from '../UI/Header.vue';
+import Accordion from '../UI/Accordion.vue';
 </script>
 
 <template>
